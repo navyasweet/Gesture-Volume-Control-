@@ -54,7 +54,7 @@ Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions
 
 <div align="center">
     <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
-    <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
+    <img alt="mediapipeLogo" src="images/htm.png" height="360 x" weight ="640 x" />
     
 </div>
 
