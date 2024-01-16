@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="images/output.mp4" />
+  <img alt="output" src="images/output.gif" />
  </div>
 
 > Gesture recognition is an active research field in Human-Computer Interaction technology. It has many applications in virtual environment control and sign language translation, robot control, or music creation. In this machine learning project on Hand Gesture Recognition, we are going to make a real-time Hand Gesture Recognizer using the MediaPipe framework and Tensorflow in OpenCV and Python.
