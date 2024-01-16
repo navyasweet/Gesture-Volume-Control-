@@ -25,12 +25,12 @@ pip install -r requirements.txt
 > MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
 
 This advanced hand tracking system involves two crucial steps: 
- ## palm detection 
- ## hand landmark localization 
+ ✨ palm detection 
+ ✨ hand landmark localization 
  Initially, the system pinpoints the hand's location in the entire image, akin to identifying where the hand is in a given picture. Subsequently, it zooms in on the detected hand region and utilizes a detailed model to accurately locate 21 key points, representing the knuckles in 3D space. These points provide a comprehensive representation of the hand's internal pose, exhibiting robustness even in scenarios with partially visible hands or self-occlusions. To train the system, approximately 30,000 real-world images were manually annotated with 21 3D coordinates, while high-quality synthetic hand models were rendered over diverse backgrounds to enhance the system's understanding of various hand poses and geometries. This dual approach ensures the system's proficiency in capturing intricate hand movements and shapes across different contexts.
 
-#### Solution APIs
-##### Configuration Options
+### Solution APIs
+### Configuration Options
 > Naming style and availability may differ slightly across platforms/languages.
 
 + <b>STATIC_IMAGE_MODE</b><br>
@@ -50,7 +50,9 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 <br>
 
-Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
+## Source: 
+
+[MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
 
 <div align="center">
     <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
